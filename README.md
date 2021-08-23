@@ -4,7 +4,7 @@ To further our journey into React state we will cross the age old rite of passag
 
 <br>
 
-![bridge](./images/bridge.jpg)
+![bridge](./images/bridge-large.jpg)
 
 <br>
 
