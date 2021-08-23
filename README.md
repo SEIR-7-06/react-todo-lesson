@@ -22,7 +22,7 @@ Bonus Features
 
 ## Setup
 
-Navigate to the proper directory where you keep your code activities and create a a new React App with
+Navigate to the proper directory where you keep your code activities and create a new React App with
 
 ```bash
 npx create-react-app react-todo
