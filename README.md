@@ -1,6 +1,6 @@
 # React Todo
 
-### To further our journey into React state we will cross the age old rite of passage for every developer learning a new technology.
+To further our journey into React state we will cross the age old rite of passage for every developer learning a new technology.
 
 <br>
 
