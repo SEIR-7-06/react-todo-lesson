@@ -1,15 +1,18 @@
 # React Todo
 
-To further our journey into React state we will build a Todo List.
+To further our journey into React state we will cross the age old rite of passage for every developer learning a new technology.
 
-
-We'll be able to
-- enter in a todo item
-- see that item displayed
-- remove the item from the list
-- and clear our list of todos
+We will build a todo list.
 
 ![todo app](./images/todo-app.png)
+
+We'll be able to...
+- enter in a todo item
+- see that item displayed
+
+Bonus Features
+- remove the item from the list
+- and clear our list of todos
 
 ## Setup
 
