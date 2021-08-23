@@ -1,6 +1,6 @@
 # React Todo
 
-To further our journey into React state we will cross the age old rite of passage for every developer on the road to mastery.
+The time has come for us to cross the age old rite of passage for every developer on the road to mastery.
 
 <br>
 
@@ -8,7 +8,7 @@ To further our journey into React state we will cross the age old rite of passag
 
 <br>
 
-### We will build a todo list.
+### Today we will build a todo list.
 
 ![todo app](./images/todo-app.png)
 
