@@ -2,7 +2,13 @@
 
 To further our journey into React state we will cross the age old rite of passage for every developer learning a new technology.
 
-We will build a todo list.
+<br>
+
+![bridge](./images/bridge.jpg)
+
+<br>
+
+### We will build a todo list.
 
 ![todo app](./images/todo-app.png)
 
